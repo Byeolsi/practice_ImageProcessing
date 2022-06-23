@@ -1,0 +1,15 @@
+﻿  DFT_temp.c
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(166,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(170,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(179,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(186,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(190,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(198,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(240,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(304,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(305,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(234,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(235,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(223,20): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\DFT_temp.c(223,15): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  output.vcxproj -> D:\Documents\과제\영상처리\영상처리 HW2\srcs_visual 2021\SRSC\Debug\output.exe
